@@ -31,7 +31,7 @@ tags: Basketball
 
 两人一组，侧面对抗运球 → 背对背对抗运球 → 侧面对抗运球 （转180度）
 
-<video src="/videos/test.mp4" controls="controls"></video>
+<video src="/videos/1-20211128-mini.mp4" controls="controls"></video>
 
 
 
