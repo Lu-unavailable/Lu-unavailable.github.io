@@ -3,8 +3,6 @@ title: SUSTech Team Training Record
 tags: Basketball
 ---
 
-<video src="/videos/test.mp4" controls="controls"></video>
-
 ### 热身
 
 1. 折返跑一组
